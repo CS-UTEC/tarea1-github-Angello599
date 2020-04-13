@@ -1,2 +1,2 @@
 nombre = input()
-print("Hello", nombre, "!")
+print("Hello ", nombre, "!")
